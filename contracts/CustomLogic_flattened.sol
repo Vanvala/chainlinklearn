@@ -85,7 +85,8 @@ abstract contract AutomationCompatible is AutomationBase, AutomationCompatibleIn
 // File: contracts/CustomLogic.sol
 
 
-pragma solidity ^0.8.26;
+pragma solidity ^0.8.26;
+
 
 contract CustomLogic is AutomationCompatibleInterface {
 
